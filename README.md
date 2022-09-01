@@ -1,8 +1,8 @@
-<p align="left">Hello there, I'm Maicon Miranda</p>
+<h1 align="left">Hello there, I'm Maicon Miranda</h1>
 
 ###
 
-<p align="left">Front-end Developer</p>
+<h2 align="left">Front-end Developer</h2>
 
 ###
 
@@ -49,3 +49,4 @@
 <img href="https://raw.githubusercontent.com/MaiconMJ/MaiconMJ/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+Profile Readme Generator
