@@ -46,7 +46,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/MaiconMJ/MaiconMJ/blob/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/MaiconMJ/MaiconMJ/blob/output/github-contribution-grid-snake.svg)
 ###
 
