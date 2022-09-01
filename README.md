@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I have experience with teamwork, communication, ease learning and work under pressure.<br><br>:brazil: I live in Brazil, Brasília <br>🎓I have Associate Degree in Analysis and Systems Development;<br>💻I'm a fullstack developer student in Labenu ;<br>📚 Book worm (reading the Wheel of Time series);<br>🎸I'm corrent learning Alive of Pearl Jam on guitar ;<br>🎮and dying A LOT in Elden Ring!</p>
+<p align="left">I have experience with teamwork, communication, easy learning and work under pressure.<br><br>:brazil: I live in Brazil, Brasília <br>🎓I have Associate Degree in Analysis and Systems Development;<br>💻I'm a fullstack developer student in Labenu ;<br>📚 Book worm (reading the Wheel of Time series);<br>🎸I'm corrent learning Alive of Pearl Jam on guitar ;<br>🎮and dying A LOT in Elden Ring!</p>
 
 ###
 
