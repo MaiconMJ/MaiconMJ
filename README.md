@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I have experience with teamwork, communication, easy learning and work under pressure.<br><br>🇧🇷 I live in Brasília, Brazil<br>🎓I have Associate Degree in Analysis and Systems Development;<br>💻I'm a fullstack developer student in Labenu ;<br><br>🎮and dying A LOT in Elden Ring!<br><br><br>I code with:</p>
+<p align="left">I have experience with teamwork, communication, easy learning and work under pressure.<br><br>🇧🇷 I live in Brasília, Brazil<br>🎓I have Associate Degree in Analysis and Systems Development;<br>💻I'm a fullstack developer student in Labenu ;<br>🎮and dying A LOT in Elden Ring!<br><br><br>I code with:</p>
 
 ###
 
