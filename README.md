@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">>🇧🇷 Moro em Brasília, Brasil<br>🎓 Sou graduado em Análise e Desenvolvimento de Sistemas;<br>📚 Aluno dos cursos Labenu, StartSe - Tech Academy e One Bit Code;<br>🎮 e morro muito em qualquer souls like que apareça!<b><br><br>💻 Eu codo com:</p>
+<p align="left">🇧🇷 Moro em Brasília, Brasil<br>🎓 Sou graduado em Análise e Desenvolvimento de Sistemas;<br>📚 Aluno dos cursos Labenu, StartSe - Tech Academy e One Bit Code;<br>🎮 e morro muito em qualquer souls like que apareça!<b><br><br>💻 Eu codo com:</p>
 
 ###
 
