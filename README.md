@@ -1,4 +1,4 @@
-<h1 align="left">Hello there, I'm Maicon Miranda</h1>
+<h1 align="left">Olá, eu sou o Maicon Miranda</h1>
 
 # 💫 Sobre mim:
 
