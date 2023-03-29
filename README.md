@@ -1,7 +1,5 @@
 <h1 align="left">Olá, eu sou o Maicon Miranda</h1>
 
-# 💫 Sobre mim:
-
 🇧🇷 Moro em Brasília, Brasil<br>🎓 Sou graduado em Análise e Desenvolvimento de Sistemas;<br>📚 Formado nos cursos Labenu e StartSe - Tech Academy;<br>🌱 Atualmente cursando OneBitCode;<br>🎮 e morro muito em qualquer souls like que apareça!<br><br>🎯 Metas 2023:<br>📂 Expandir meu portfólio;<br>⌨️ Aprender Python e Angular;<br>🚀 Começar minha carreira com Dev! <br>
 
 # 💻 Eu codo com:
