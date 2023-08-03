@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/MaiconMJ/MaiconMJ/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
